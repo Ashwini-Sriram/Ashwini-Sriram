@@ -5,11 +5,10 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working and learning how to build an intelligent bot.
-- 🌱 I’m currently learning and building a react native app.
+- 🏢 I’m currently working as a software developer at JP Morgan Chase.
+- 🌱 I’m learning to improve my DSA skills.
 - 👯 I’m looking to collaborate on anything that might interest me.
-- 🤔 I’m looking for help with react native. 
-- 💬 Ask me about F1.
+- 💬 Ask me about React/Spring-boot JAVA.
 - 📫 How to reach me: ashwinisriram@gmail.com.
 - 😄 Pronouns: she/her.
 - ⚡ Fun fact: A shrimp's heart is in its head.
